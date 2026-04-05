@@ -1,0 +1,37 @@
+# betterlockscreen config
+
+# Wallpaper effects
+fx_list=(blur)
+blur_strength=1
+
+# Login box
+loginbox_color="3d4c5f88"
+loginbox_radius=10
+
+# Clock
+time_format="%H:%M"
+time_font="Iosevka"
+time_size=64
+time_color="ffffffff"
+
+date_format="%A, %d %B"
+date_font="Iosevka"
+date_size=22
+date_color="ffffffff"
+
+# Password input
+wrong_color="ff6b6bff"
+verif_color="a1efd3ff"
+insidecolor="00000000"
+ringcolor="ffffffff"
+linecolor="00000000"
+keyhlcolor="bd99ffff"
+bshlcolor="f48fb1ff"
+separatorcolor="00000000"
+insidevercolor="00000000"
+insidewrongcolor="00000000"
+ringvercolor="a1efd3ff"
+ringwrongcolor="f48fb1ff"
+
+# Remove bottom bar
+show_indicator=false
