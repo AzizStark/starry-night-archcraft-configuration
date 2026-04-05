@@ -1,5 +1,7 @@
 # Starry Night — Dotfiles
 
+<img width="2560" height="1440" alt="Starry Night" src="https://github.com/user-attachments/assets/ced5ba1d-216f-4d25-83b8-5254ed88e934" />
+
 Personal configuration files for Archcraft/bspwm setup.
 
 ## System
